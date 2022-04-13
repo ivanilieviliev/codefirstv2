@@ -1,0 +1,20 @@
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\M4\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\CodeFirst11EV2\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
